@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Alec Vaughn
 
 The log of my #100DaysOfCode challenge. Started on [October 15, Wednesday, 2025].
 
@@ -10,7 +10,8 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 -->
 
 ### R1D1
-Started 90-day Firebase Free Trial with credits. 
+Started 90-day Firebase Free Trial with credits. Tested git features with several commits and one PR. Documented in README [here](https://github.com/alecjvaughn/aleclabs). Attempted Firebase deployment and added DNS records for aleclabs.us to the project. 
+
 Goals: 
 1. Deploy a web app with the custom domain aleclabs.us
 2. Start a brag document to use for job apps and performance reviews
