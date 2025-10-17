@@ -21,3 +21,6 @@ Goals:
 - highlight skill gaps and rate match
 - allow user to revise and rescore
 5. Connect RasPi bot to server for camera and controls
+
+### R1D2
+Attempted redeploy [here](https://github.com/alecjvaughn/aleclabs) after successful deploy locally. Build failed with same error and investigated IAM permissions for Cloud Build service.
