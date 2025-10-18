@@ -24,3 +24,6 @@ Goals:
 
 ### R1D2
 Attempted redeploy [here](https://github.com/alecjvaughn/aleclabs) after successful deploy locally. Build failed with same error and investigated IAM permissions for Cloud Build service.
+
+### R1D3
+Successful emulation test and redeploy. Crucial prerequisite was using `npm init @apphosting` and then `firebase init` in the project directory. Process documented in the README for project [here](https://github.com/alecjvaughn/aleclabs)
